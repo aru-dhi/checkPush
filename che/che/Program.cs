@@ -10,6 +10,7 @@ namespace che
     {
         static void Main(string[] args)
         {
+            char b = 'b';
         }
     }
 }
