@@ -12,6 +12,7 @@ namespace che
         {
             int a = 0;
             //comment
+            //coomment2
         }
     }
 }
