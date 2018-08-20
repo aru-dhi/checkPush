@@ -11,6 +11,7 @@ namespace che
         static void Main(string[] args)
         {
             int a = 0;
+            //comment
         }
     }
 }
